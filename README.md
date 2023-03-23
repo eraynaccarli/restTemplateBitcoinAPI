@@ -1,5 +1,6 @@
 # restTemplateBitcoinAPI
-RestTemplate + CUSTOM ERROR HANDLE
+
+# RestTemplate + CUSTOM ERROR HANDLE
 
 # API SOURCE: https://www.binance.com/tr
 # the called api: https://api1.binance.com/api/v3/avgPrice?symbol=GBPUSDT 
